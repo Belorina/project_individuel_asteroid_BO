@@ -414,3 +414,4 @@ def update(dt):
                 all_power_up_glitch.remove(power_up_glitch)
                 time_glitch= 0.5
 
+# pgzrun "Nom du fichier"
